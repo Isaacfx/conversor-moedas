@@ -62,6 +62,4 @@ Este conversor de moedas foi desenvolvido como projeto final da fase do Programa
 
 Com esse projeto, consolidei o aprendizado em desenvolvimento Java moderno, organização de código, tratamento de erros e integração com serviços externos, reforçando habilidades essenciais para atuação profissional como engenheiro de software.
 
----
-
-Feito com ❤️ por @isaacfx
+ 
