@@ -58,11 +58,4 @@ Com esse projeto, consolidei o aprendizado em desenvolvimento Java moderno, orga
 
 ---
 
-## Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-Feito com ❤️ por Isaac dos Santos Silva  
-Contato: isaacsantosfx@gmail.com
+Feito com ❤️ por @isaacfx
